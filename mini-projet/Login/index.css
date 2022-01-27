@@ -1,0 +1,47 @@
+*{
+    padding:0;
+    margin:0;
+}
+.navbar
+{
+    background-color: green;
+    width: 100%;
+    height: 46px;
+}
+.navbar div{
+    position: absolute;
+    left: 20px;
+    width: 233px;
+    top: 12px;
+    margin-right: 40%;
+}
+.login table{
+    position: absolute;
+    height: 190px;
+    top: 231px;
+    left: 184px;
+    width: 568px;
+    border-color: transparent transparent transparent green;
+    border-width: 1px 10px;
+    border-radius: 36px / 33px;
+    border-style: solid;
+    padding: 42px;
+    font-weight: bolder;
+    font-size: 20px;
+    text-transform:uppercase;
+}
+.login table tr td
+{
+    padding: 9px;
+}
+.login table tr td .btn
+{
+    color: whitesmoke;
+    width: 183px;
+    background-color: green;
+    height: 33px;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: bold;
+
+}

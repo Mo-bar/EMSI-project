@@ -1,0 +1,31 @@
+.Ajout
+{
+    position: absolute;
+    top: 267px;
+    left: 200px;
+}
+.Ajout p
+{
+    position: absolute;
+    top: -63px;
+    left: -48px;
+}
+.Ajout p, 
+.Ajout label
+{
+    font-size: larger;
+    font-weight: bold;
+    color:black;
+}
+.Ajout table tr, 
+.Ajout table tr td
+{
+    padding:15px;
+    margin:15px;
+}
+.Ajout table tr td .btn{
+    width: 169px;
+    background-color: green;
+    height: 28px;
+    color: whitesmoke;
+}

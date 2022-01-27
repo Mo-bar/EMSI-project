@@ -1,0 +1,36 @@
+.Ajout
+{
+    position: absolute;
+    top: 200px;
+    left: 200px;
+}
+.Ajout p, 
+.Ajout label
+{
+    font-size: larger;
+    font-weight: bold;
+    color:black;
+}
+.Ajout table tr, 
+.Ajout table tr td
+{
+    padding:15px;
+    margin:15px;
+}
+.btn
+{
+    width: 184px;
+    height: 30px;
+    background-color: rgba(0, 128, 0, 0.74);
+    color: whitesmoke;
+}
+.opt
+{
+    width: 149px;
+    height: 32px;
+}
+.date_rec
+{
+    width: 142px;
+    text-align: center;
+}

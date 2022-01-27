@@ -1,0 +1,23 @@
+.modif
+{
+    position: absolute;
+    top: 222px;
+    left: 234px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.modif table tr td,
+.modif table tr td
+{
+padding : 20px;
+}
+.modif table tr td .dept{
+    width: 167px;
+}
+.modif table tr td .btn{
+    width: 169px;
+    background-color: green;
+    height: 28px;
+    color: whitesmoke;
+}

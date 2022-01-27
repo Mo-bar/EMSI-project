@@ -1,0 +1,44 @@
+table
+{
+    position: absolute;
+    top: 193px;
+    width: fit-content;
+    z-index:0;
+    border-collapse:collapse;
+}
+table tr thead td,
+table tr td
+{
+    width: 195px;
+    text-align: center;
+    margin: 57px;
+    height: 31px;
+}
+tr:nth-child(even)
+{
+    background-color: lightgray;
+}
+table .title
+{
+    text-transform:uppercase;
+    background-color:lightgreen;
+}
+table tr .nom,
+table tr .adresse,
+.liste p
+{
+    text-transform:uppercase;
+}
+table tr .prenom,
+table tr .depart,
+table tr .cour{
+    text-transform:capitalize;
+}
+.liste p{
+    font-weight: bold;
+    position: absolute;
+    left: 133px;
+    top: 143px;
+    letter-spacing: 3px;
+    font-size: x-large;
+}

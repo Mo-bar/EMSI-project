@@ -1,0 +1,36 @@
+.liste p{
+    font-weight: bold;
+    position: absolute;
+    left: 133px;
+    top: 143px;
+    letter-spacing: 3px;
+    font-size: x-large;
+}
+tr:nth-child(even)
+{
+    background-color: lightgray;
+    color:black;
+}
+.liste table
+{
+    width: 554px;
+    text-align: center;
+    margin: 88px;
+    height: 31px;
+    position: absolute;
+    top: 130px;
+    left: 160px;
+    border-collapse:unset;
+}
+.liste table tr td
+{
+    width: 447px;
+    height: 31px;
+    text-transform: capitalize;
+}
+table .title
+{
+    text-transform:uppercase;
+    background-color:rgb(31, 134, 31);
+    color : whitesmoke;
+}
